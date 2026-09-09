@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Paper Recommender"
+  short_description: "Choose a Codex project and get 3 relevant papers"
+  default_prompt: "Use $project-paper-recommender to recommend three papers for a selected Codex project."
+
+policy:
+  allow_implicit_invocation: true
